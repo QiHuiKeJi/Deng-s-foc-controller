@@ -8,9 +8,7 @@
 
 ![image1](https://github.com/ToanTech/Deng-s-foc-controller/blob/main/pic/PAFOC_front.jpg)
 
-<img src="https://github.com/ToanTech/Deng-s-foc-controller/blob/main/pic/PAFOC_front.jpg" style="zoom:50%;" />
-
-<img src="https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/PAFOC_back.jpg?raw=true" style="zoom:50%;" />
+![image1](https://github.com/ToanTech/Deng-s-foc-controller/blob/main/pic/PAFOC_back.jpg)
 
 1. 特性
 
@@ -37,10 +35,10 @@
 3. 接口说明  
    仅针对于本项目所使用的ESP32开发板（型号为lolin32 lite,如下图）
    
-   <img src="https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/lolin32_lite.jpg?raw=true" style="zoom:50%;" />
+   ![image1](https://github.com/ToanTech/Deng-s-foc-controller/blob/main/pic/lolin32_lite.jpg)
    接口引脚如下：
 
-   <img src="https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/pafoc_interface.jpg?raw=true" style="zoom:50%;" />
+   ![image1](https://github.com/ToanTech/Deng-s-foc-controller/blob/main/pic/pafoc_interface.jpg)
    
    | 接口     | 功能  | 端口         |
    | -------- | ----- | ------------ |
