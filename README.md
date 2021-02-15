@@ -6,10 +6,9 @@
 
 ##   灯哥开源 FOC 控制器是一个由灯哥开源的，基于Apache 2.0 开源协议和ESP32主控芯片的低成本无刷电机双路FOC驱动控制板。
 
-![PAFOC_front](https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/PAFOC_front.png)
-![PAFOC_back](https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/PAFOC_back.png)
+<img src="https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/PAFOC_front.jpg?raw=true" style="zoom:50%;" />
 
-<img src="https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/PAFOC_front.png?raw=true" style="zoom:50%;" />
+<img src="https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/PAFOC_back.jpg?raw=true" style="zoom:50%;" />
 
 1. 特性
 
@@ -35,10 +34,12 @@
 
 3. 接口说明  
    仅针对于本项目所使用的ESP32开发板（型号为lolin32 lite,如下图）
-   ![lolin32_lite](https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/lolin32_lite.png)
+   
+   <img src="https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/lolin32_lite.jpg?raw=true" style="zoom:50%;" />
    接口引脚如下：
-   ![pafoc_interface.png](https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/pafoc_interface.png)
 
+   <img src="https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/pafoc_interface.jpg?raw=true" style="zoom:50%;" />
+   
    | 接口     | 功能  | 端口         |
    | -------- | ----- | ------------ |
    | 电机一   | 使能  | IO22         |
@@ -51,11 +52,11 @@
    | 编码器二 | A/SCL | IO23         |
    |          | B/SDA | IO19         |
    |          | I     | IO13         |
-   | 串口     | TXD   | IO17         |
+| 串口     | TXD   | IO17         |
    |          | RXD   | IO16         |
 
    ​         
-
+   
 4. 项目文件说明
 
    * Schematic：原理图
