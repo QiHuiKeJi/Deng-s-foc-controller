@@ -6,7 +6,9 @@
 
 ##   灯哥开源 FOC 控制器是一个由灯哥开源的，基于Apache 2.0 开源协议和ESP32主控芯片的低成本无刷电机双路FOC驱动控制板。
 
-<img src="https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/PAFOC_front.jpg" style="zoom:50%;" />
+![image1](https://github.com/ToanTech/Deng-s-foc-controller/blob/main/pic/PAFOC_front.jpg)
+
+<img src="https://github.com/ToanTech/Deng-s-foc-controller/blob/main/pic/PAFOC_front.jpg" style="zoom:50%;" />
 
 <img src="https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/PAFOC_back.jpg?raw=true" style="zoom:50%;" />
 
