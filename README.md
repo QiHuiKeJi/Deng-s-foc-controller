@@ -6,8 +6,8 @@
 
 ##   灯哥开源 FOC 控制器是一个由灯哥开源的，基于Apache 2.0 开源协议和ESP32主控芯片的低成本无刷电机双路FOC驱动控制板。
 
-![PAFOC_front](C:/Users/hp/Documents/GitHub/Deng-s-foc-controller/PAFOC_front.png)
-![PAFOC_back](C:/Users/hp/Documents/GitHub/Deng-s-foc-controller/PAFOC_back.png)
+![PAFOC_front](https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/PAFOC_front.png)
+![PAFOC_back](https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/PAFOC_back.png)
 
 
 
@@ -35,9 +35,9 @@
 
 3. 接口说明  
    仅针对于本项目所使用的ESP32开发板（型号为lolin32 lite,如下图）
-   ![lolin32_lite](C:/Users/hp/Documents/GitHub/Deng-s-foc-controller/lolin32_lite.png)
+   ![lolin32_lite](https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/lolin32_lite.png)
    接口引脚如下：
-   ![pafoc_interface.png](C:/Users/hp/Documents/GitHub/Deng-s-foc-controller/pafoc_interface.png)
+   ![pafoc_interface.png](https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/pafoc_interface.png)
 
    | 接口     | 功能  | 端口         |
    | -------- | ----- | ------------ |
