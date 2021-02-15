@@ -9,7 +9,7 @@
 ![PAFOC_front](https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/PAFOC_front.png)
 ![PAFOC_back](https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/PAFOC_back.png)
 
-
+<img src="https://github.com/ToanTech/Deng-s-foc-controller/tree/main/pic/PAFOC_front.png?raw=true" style="zoom:50%;" />
 
 1. 特性
 
