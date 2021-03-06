@@ -37,8 +37,8 @@ void loop() {
   Serial.print(sensor.getAngle());
   Serial.print("\t");
   
-  //Serial.println("Sensor 2");
-  //Serial.print(sensor1.getAngle());
-  //Serial.print("\t");
-  //Serial.println(sensor.getVelocity());
+  Serial.println("Sensor 2");
+  Serial.print(sensor1.getAngle());
+  Serial.print("\t");
+  Serial.println(sensor.getVelocity());
 }
