@@ -8,14 +8,12 @@
 
 ​     灯哥开源无刷FOC目前的发展受到灯哥开源团队的深度支持，目前已经针对这块控制板开发出了[灯哥开源无刷四足机器人](https://github.com/ToanTech/py-apple-bldc-quadruped-robot)，DIY视频和效果见：[B站](https://www.bilibili.com/video/BV1kV411i76z/)，例如平衡车，倒立摆等等，敬请关注。
 
-​     **目前该主控板已经上架淘宝，售价60RMB，是焊接好调试好的成品，出售即包括 ESP32 ；直接到手可用。**每一块我都要给我的小伙伴补贴的，只希望大家能畅快玩起来，有需要大家可以猛击[淘宝链接](https://item.taobao.com/item.htm?spm=a230r.1.14.9.34c9688aRXg2O6&id=638363654504&ns=1&abbucket=20#detail)
+​     <u>目前该主控板已经上架淘宝，售价60RMB，是焊接好调试好的成品，出售即包括 ESP32 ；直接到手可用。</u>每一块我都要给我的小伙伴补贴的，只希望大家能畅快玩起来，有需要大家可以猛击[淘宝链接](https://item.taobao.com/item.htm?spm=a230r.1.14.9.34c9688aRXg2O6&id=638363654504&ns=1&abbucket=20#detail)
 
 * 开源工作不易，希望大家多点 Star ,视频多一键三联！！！
 * 板子的使用、配置教程，请访问：[灯哥开源 FOC 讨论论坛](http://leggedrobot.cn/forum.php?mod=forumdisplay&fid=52)
 
 ![image1](https://github.com/ToanTech/Deng-s-foc-controller/blob/main/pic/PAFOC_front.jpg)
-
-![image1](https://github.com/ToanTech/Deng-s-foc-controller/blob/main/pic/PAFOC_back.jpg)
 
 1. 特性
 
@@ -46,6 +44,8 @@
 
    ![image1](https://github.com/ToanTech/Deng-s-foc-controller/blob/main/pic/pafoc_interface.jpg)
    
+   
+   
    | 接口     | 功能  | 端口         |
    | -------- | ----- | ------------ |
    | 电机一   | 使能  | IO22         |
@@ -56,12 +56,10 @@
    |          | B/SDA | IO18         |
    |          | I     | IO15         |
    | 编码器二 | A/SCL | IO23         |
-   |          | B/SDA | IO19         |
+|          | B/SDA | IO19         |
    |          | I     | IO13         |
 | 串口     | TXD   | IO17         |
    |          | RXD   | IO16         |
-
-   ​         
    
 4. 项目文件说明
 
