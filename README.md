@@ -11,33 +11,34 @@
 
 ![image1](https://github.com/ToanTech/Deng-s-foc-controller/blob/main/pic/PAFOC_front.jpg)
 
-1. 特性
+## 1 特性
 
-   * 支持双电机
-   * 即插即用，原生支持EPS32模块，并预留3*2路PWM输入接口
-   * 电压输入12-24V，单路最大功率120W
-   * 集成编码器/霍尔传感器接口
-   * 集成I2C，TXD接口
+* 支持双电机
+* 即插即用，原生支持EPS32模块，并预留3*2路PWM输入接口
+* 电压输入12-24V，单路最大功率120W
+* 集成编码器/霍尔传感器接口
+* 集成I2C，TXD接口
 
-2. 规格
+## 2 规格
 
-   | 说明         | 参数                                     |
-   | ------------ | ---------------------------------------- |
-   | 尺寸         | 56*39 mm                                 |
-   | 输入电压类型 | 直流DC                                   |
-   | 输入电压     | 12-24V                                   |
-   | 最大功率     | 单路120W 双路共240W                      |
-   | 支持电机数   | 2                                        |
-   | 主控         | 底面可搭载ESP32开发板 lolin32 lite       |
-   | 编码器支持   | IIC方式以及ABI方式编码器(AS5600、AS5047) |
-   | 拓展接口     | 串口（可以通过串口对FOC板子进行控制）    |
-   
-3. 接口说明  
-   本项目所使用的ESP32开发板，型号为lolin32 lite。板子接口引脚简图如下，更多请参照B站和论坛教程：
-   ![image1](https://github.com/ToanTech/Deng-s-foc-controller/blob/main/pic/pafoc_interface.jpg)
-   
-4. 项目文件说明
+| 说明         | 参数                                     |
+| ------------ | ---------------------------------------- |
+| 尺寸         | 56*39 mm                                 |
+| 输入电压类型 | 直流DC                                   |
+| 输入电压     | 12-24V                                   |
+| 最大功率     | 单路120W 双路共240W                      |
+| 支持电机数   | 2                                        |
+| 主控         | 底面可搭载ESP32开发板 lolin32 lite       |
+| 编码器支持   | IIC方式以及ABI方式编码器(AS5600、AS5047) |
+| 拓展接口     | 串口（可以通过串口对FOC板子进行控制）    |
 
-   * Dengs FOC V1.0 DIY资料：BOM、原理图、PCB、Gerber
-   * Dengs FOC V1.0 测试例程：8个灯哥开源FOC开环、闭环、应用方面的测试视频
-   * 灯哥开源FOC专用 Arduino 编程环境：我整合好的可以直接用于开发此 FOC 的编程环境，详细使用方法请见论坛中的教程
+## 3 接口说明
+
+本项目所使用的ESP32开发板，型号为lolin32 lite。板子接口引脚简图如下，更多请参照B站和论坛教程：
+![image1](https://github.com/ToanTech/Deng-s-foc-controller/blob/main/pic/pafoc_interface.jpg)
+
+## 4 项目文件说明
+
+* Dengs FOC V1.0 DIY资料：BOM、原理图、PCB、Gerber
+* Dengs FOC V1.0 测试例程：8个灯哥开源FOC开环、闭环、应用方面的测试视频
+* 灯哥开源FOC专用 Arduino 编程环境：我整合好的可以直接用于开发此 FOC 的编程环境，详细使用方法请见论坛中的教程
